@@ -6,8 +6,7 @@
 
 A deep learning-based CBIR system for face recognition using **CNNs**, **VGG16**, and **FaceNet**, optimized for celebrity face retrieval and classification.
 
-**Full, Detailed report is available in Report.pdf
-**
+**Full, Detailed report is available in Report.pdf**
 
 
 ## 📁 Dataset
