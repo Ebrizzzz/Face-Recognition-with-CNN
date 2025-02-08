@@ -1,4 +1,4 @@
-# Content-Based Image Retrieval (CBIR) for Face Recognition
+# Face Recognition using CNN and FaceNet
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Deep Learning](https://img.shields.io/badge/Framework-TensorFlow%2FKeras-orange)
