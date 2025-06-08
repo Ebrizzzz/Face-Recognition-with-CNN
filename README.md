@@ -4,6 +4,13 @@
 ![Deep Learning](https://img.shields.io/badge/Framework-TensorFlow%2FKeras-orange)
 ![Accuracy](https://img.shields.io/badge/Accuracy-99.63%25-brightgreen)
 
+![alt text](img1.png)
+![alt text](img2.png)
+![alt text](img3.png)
+
+
+
+
 A deep learning-based CBIR system for face recognition using **CNNs**, **VGG16**, and **FaceNet**, optimized for celebrity face retrieval and classification.
 
 **Full, Detailed report and walkthrough is available in Report.pdf**
